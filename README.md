@@ -13,5 +13,5 @@ Features:
 
 ## Credits
 
-* Thanks to @mariankadanka, the latest version that i had taken was from her
+* Thanks to @mariankadanka, this plugin based on the work from her
 
